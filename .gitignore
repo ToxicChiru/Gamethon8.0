@@ -1,0 +1,21 @@
+# Unreal Engine standard .gitignore
+**/Binaries/
+**/Intermediate/
+**/Saved/
+**/DerivedDataCache/
+**/.vs/
+**/.idea/
+**/.vscode/
+*.VC.db
+*.opendb
+*.sln
+*.suo
+*.user
+*.code-workspace
+**/FileOpenOrder/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
